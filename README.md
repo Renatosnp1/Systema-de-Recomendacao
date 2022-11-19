@@ -1,2 +1,2 @@
-# Systema-de-Recomendacao
-Systema de recomendação
+# Introdudução Systema de recomendação
+Iniciando estudo em systema de recomendação usando python
